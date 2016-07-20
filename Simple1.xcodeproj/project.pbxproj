@@ -12,6 +12,8 @@
 		5310120F1D3FE1A50020587D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5310120D1D3FE1A50020587D /* Main.storyboard */; };
 		531012111D3FE1A50020587D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 531012101D3FE1A50020587D /* Assets.xcassets */; };
 		531012141D3FE1A50020587D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 531012121D3FE1A50020587D /* LaunchScreen.storyboard */; };
+		5310121C1D3FE7620020587D /* btn_radio.png in Resources */ = {isa = PBXBuildFile; fileRef = 5310121B1D3FE7620020587D /* btn_radio.png */; };
+		5310121E1D3FE76C0020587D /* btn_like.png in Resources */ = {isa = PBXBuildFile; fileRef = 5310121D1D3FE76C0020587D /* btn_like.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		531012101D3FE1A50020587D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		531012131D3FE1A50020587D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		531012151D3FE1A50020587D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5310121B1D3FE7620020587D /* btn_radio.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_radio.png; sourceTree = "<group>"; };
+		5310121D1D3FE76C0020587D /* btn_like.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = btn_like.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 				5310120B1D3FE1A50020587D /* ViewController.swift */,
 				5310120D1D3FE1A50020587D /* Main.storyboard */,
 				531012101D3FE1A50020587D /* Assets.xcassets */,
+				5310121D1D3FE76C0020587D /* btn_like.png */,
+				5310121B1D3FE7620020587D /* btn_radio.png */,
 				531012121D3FE1A50020587D /* LaunchScreen.storyboard */,
 				531012151D3FE1A50020587D /* Info.plist */,
 			);
@@ -124,7 +130,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				531012141D3FE1A50020587D /* LaunchScreen.storyboard in Resources */,
+				5310121E1D3FE76C0020587D /* btn_like.png in Resources */,
 				531012111D3FE1A50020587D /* Assets.xcassets in Resources */,
+				5310121C1D3FE7620020587D /* btn_radio.png in Resources */,
 				5310120F1D3FE1A50020587D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
